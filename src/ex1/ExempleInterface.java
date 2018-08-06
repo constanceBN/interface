@@ -7,6 +7,9 @@ public interface ExempleInterface {
 	
 	// Dans l'interface, on met les signatures des getters et setters communs à nos deux méthodes.
 	public int getV1();
-	public int getV2();
+	public int setV1();
+	
+	public int getV2();  
+	public int setV2();
 
 }
