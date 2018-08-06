@@ -3,6 +3,7 @@
 Déclaration des signatures des méthodes que l'on va devoir utiliser dans les classes.
 On utilise le mot-clé "implements".
 
+
 Ex1 (Application):
 
 1. Créer une classe Application.
