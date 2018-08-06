@@ -9,7 +9,7 @@ public interface ExempleInterface {
 	public int getV1();
 	public int setV1();
 	
-	public int getV2();  
+	public int getV2();     
 	public int setV2();
 
 }
